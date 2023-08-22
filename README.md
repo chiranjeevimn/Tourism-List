@@ -1,2 +1,2 @@
-# 7-Wonders
-Android App for the 7 Wonders of the world.
+# ListView
+Android App for the Karnataka Tourism places Using ListView.
